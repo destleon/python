@@ -2,7 +2,7 @@ myfriends = [ 'berla', 'lois', 'benita', 'andrea', 'venny', 'abena', ]
 
 for afriend in myfriends : 
     
-    print(afriend .title() )
+    
 
 
 #another loop using range
